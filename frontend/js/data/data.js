@@ -12,8 +12,7 @@ function loadingSpinner(){
 }
 
 //URL da API
-// const URL = "https://trilha-full-stack-jr-j-git-8a8bdb-joao-pedro-goncalves-projects.vercel.app";
-const URL = "http://140.238.184.168:8080/api";
+const URL = "https://api.gerenciadordeprojetos.myouijava.tech/api";
 
 //requisita a lista de todos os projetos públicos
 export async function getProjetosPublicos(){
