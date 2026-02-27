@@ -12,7 +12,7 @@ function loadingSpinner(){
 }
 
 //URL da API
-const URL = "https://api.gerenciadordeprojetos.myouijava.tech/api";
+const URL = "https://api.gerenciadordeprojetos.goncalvespedro.tech/api";
 
 //requisita a lista de todos os projetos públicos
 export async function getProjetosPublicos(){

@@ -1,6 +1,6 @@
 # Gerenciador de Projetos
 
-https://jpfsgs-projetos.netlify.app/
+https://gerenciadordeprojetos.goncalvespedro.tech/
 
 ## Descrição
 Aplicação Web para criar, editar, remover e gerenciar projetos, com opção de incluir prazo e descrição.
